@@ -1,5 +1,5 @@
 {
-  "name": "mycoshiro-aw-watcher",
+  "name": "mycoshiro-obsidian-activity-watcher",
   "version": "1.3.0",
   "description": "This is a plugin bridging compatibility between ActivityWatch and Obsidian.",
   "main": "main.js",
