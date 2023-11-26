@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "id": "mycoshiro-aw-watcher",
-  "name": "Mycoshiro ActivityWatch",
+  "id": "mycoshiro-activity-watcher",
+  "name": "Mycoshiro Activity Watcher",
   "version": "1.3.0",
   "minAppVersion": "0.15.0",
   "description": "This is a plugin bridging compatibility between ActivityWatch and Obsidian.",
